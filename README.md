@@ -1,9 +1,31 @@
-Overview
-This repository showcases my Power BI projects, demonstrating expertise in data visualization, reporting, and analytics. Each project includes interactive dashboards, drill-through reports, and dynamic filtering, turning raw data into actionable insights.
+ Data Analytics Portfolio – Power BI Projects
+Welcome to my Data Analytics Portfolio! This repository contains a collection of real-world data analysis projects using Python, Power BI, and SQL. Each project focuses on extracting insights from diverse datasets by performing data cleaning, transformation, and interactive visualization.
 
-Features
-✅ Interactive and user-friendly dashboards
-✅ Data modeling and DAX calculations
-✅ Drill-through navigation for in-depth analysis
-✅ Custom visuals and advanced filtering
-✅ Business performance tracking and financial analysis
+📁 Repository Structure
+Each folder below contains a self-contained analytics project with cleaned data, Python preprocessing scripts (where applicable), Power BI dashboards, and detailed READMEs.
+
+🔹 Blinkit_Sales_Analysis/
+Objective: Analyze retail sales data from Blinkit to uncover patterns by product type, outlet type, and region.
+Tools: Power BI
+Highlights: Sales by item category, outlet performance, fat content breakdown, and location-wise trends.
+
+🔹 Maji_Ndego_Water_Project/
+Objective: Visualize and assess water infrastructure improvements across rural and urban locations.
+Tools: Python (for data prep), Power BI
+Highlights: Budget allocations, population coverage, cost per citizen, and types of improvements (e.g., wells, RO filters, taps).
+
+🔹 Data_Professionals_Survey/
+Objective: Explore survey data from data professionals worldwide on tools, salaries, satisfaction, and challenges.
+Tools: Python (for preprocessing), MySQL, Power BI
+Highlights: Job satisfaction scores, favorite programming languages, salary analysis, and geographical distribution.
+
+🛠 Skills Demonstrated
+🔍 Data Cleaning using Python and pandas
+📊 Interactive Dashboards with Power BI
+📈 Insight Communication through storytelling and visual design
+🧠 Analytical Thinking to identify key trends and performance metrics
+
+🙋‍♂️ About Me
+Ashenafi Negash
+📍 Addis Ababa, Ethiopia
+📧 ashenafinegashz@gmail.com
