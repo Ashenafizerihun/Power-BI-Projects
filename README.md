@@ -1,4 +1,5 @@
 Data Analytics Portfolio – Power BI Projects
+
 Welcome to my Data Analytics Portfolio! This repository contains a collection of real-world data analysis projects using Python, Power BI, and SQL. Each project focuses on extracting insights from diverse datasets by performing data cleaning, transformation, and interactive visualization.
 
 📁 Repository Structure
